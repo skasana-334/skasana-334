@@ -43,7 +43,7 @@
 
 ### 📌 Featured Projects
 - 🏏 **IPL Auction Management System** — Real-time auction platform with WebSocket & JWT  
-  🔗 [View on GitHub](https://github.com/your-username/ipl-auction)  
+  🔗 [View on GitHub](https://github.com/Sammykhan214/ipl_bidding)  
 
 ---
 
